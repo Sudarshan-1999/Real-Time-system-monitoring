@@ -40,3 +40,4 @@ python api/app.py
 API Endpoints:
 - `/api/status`: Check API status
 - `/api/health`: Check system health
+- `/api/diskusage`: Check system  Disk Usage
