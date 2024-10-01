@@ -30,7 +30,12 @@ python automation/system_monitoring.py
 
 ```bash
 python api/app.py
+
 ```
+# Using powershell
+    $env:FLASK_APP="api/app.py"
+    flask run
+
 
 API Endpoints:
 - `/api/status`: Check API status
